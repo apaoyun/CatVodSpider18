@@ -841,6 +841,7 @@
       "name": "*白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
+	  "playUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "searchable": 0,
       "quickSearch": 0
     },
