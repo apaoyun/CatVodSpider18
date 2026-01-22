@@ -398,49 +398,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-    "key": "名优馆",
-    "name": "名优馆",
-    "type": 0,
-    "api": "http://mygzycj.com/sapi.php?ac=videolist",
-    "playUrl": "",
-    "categories": []
-    },
-    {
-    "key": "4000",
-    "name": "4000",
-    "type": 0,
-    "api": "http://4000zy.com/inc/api.php",
-    "playUrl": "",
-    "categories": []
-    },
-    {
-      "key": "哥哥妹妹",
-      "name": "哥哥妹妹",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "AVZY",
-      "name": "AVZY",
-      "type": 1,
-      "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "(18+)浪潮资源", 
-      "name": "(18+)浪潮资源", "type": 1,
-      "api": "http://langchaozy6.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0 
-    } 
+    }
+    
 ],
 
 # 直播
