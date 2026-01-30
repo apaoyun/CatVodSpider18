@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh-proxy.org/https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true",
+    "spider": "https://gh-proxy.org/https://github.com/apaoyun/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true",
     "sites": [
         { "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         { "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
