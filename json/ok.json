@@ -359,5 +359,5 @@
     "cpro.baidustatic.com"
   ],
   "wallpaper": "https://bing.img.run/rand.php",
-  //"spider": "https://cdn.staticaly.com/gh/lllyin/assets/master/%E5%BD%B1%E8%A7%86.png"
+  "spider": "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a"
 }
