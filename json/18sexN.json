@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/github.com/apaoyun/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
+  "spider": "https://gh-proxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
   "sites": [
     {
       "key": "*博天堂",
@@ -841,7 +841,6 @@
       "name": "*白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-	  "playUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -2210,7 +2209,6 @@
       ]
     }
   ],
-
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "ads": [
     "mimg.0c1q0l.cn",
